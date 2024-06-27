@@ -1,5 +1,5 @@
 {
-  "name": "@deanc/esbuild-plugin-postcss",
+  "name": "@wemake/esbuild-plugin-postcss",
   "version": "1.0.2",
   "description": "Plugin for esbuild to support postcss",
   "main": "index.js",
@@ -7,13 +7,13 @@
     "test": "tape 'tests/*.js' | tap-spec"
   },
   "author": {
-    "name": "Dean Clatworthy",
-    "url": "https://deanclatworthy.com"
+    "name": "wemake",
+    "url": "https://wemake.pe/"
   },
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deanc/esbuild-plugin-postcss.git"
+    "url": "https://github.com/open-wm/esbuild-plugin-postcss.git"
   },
   "keywords": [
     "esbuild",
